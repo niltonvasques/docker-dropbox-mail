@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
 gem 'mail'
-gem 'sharepoint-ruby'
+gem 'dropbox-sdk-v2'
 gem 'awesome_print'
